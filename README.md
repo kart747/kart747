@@ -25,23 +25,26 @@ I like taking a model off the notebook and onto real hardware or into a product 
 
 ## Skills
 
+Everything below is used in code I wrote and committed.
+
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,dart,kotlin,bash,html,css&perline=10" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,flutter,react,nextjs,vite,tailwind,fastapi&perline=11" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flutter,react,nextjs,vite,tailwind,fastapi&perline=10" alt="Frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,sqlite,docker,git,linux,arduino,raspberrypi&perline=9" alt="Tools" />
 </p>
 
 | Area | What I've used |
 | --- | --- |
 | **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, SQL, Bash, HTML/CSS |
-| **Deep learning** | PyTorch, torchvision, TensorFlow/Keras, segmentation-models-pytorch, Grad-CAM, bitsandbytes, Accelerate |
-| **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, scikit-image, PaddleOCR, docTR, TrOCR |
-| **GenAI & NLP** | Hugging Face Transformers, sentence-transformers, LangChain, ChromaDB (RAG), Ollama, Gemini, Groq, LLMLingua, spaCy, NLTK, gensim, faster-whisper, Kokoro TTS, Transformers.js |
-| **Classical ML & data** | scikit-learn, LightGBM, pandas, Polars, NumPy, SciPy, PyArrow, RapidFuzz, FilterPy (EKF/UKF), Matplotlib, Seaborn, Plotly |
-| **GPU computing** | CUDA, CuPy, Numba, NVIDIA DALI, RAPIDS cuDF |
+| **Deep learning** | PyTorch, torchvision, torchaudio, TensorFlow, Grad-CAM |
+| **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, PaddleOCR, docTR, TrOCR, Pillow |
+| **GenAI & NLP** | Hugging Face Transformers, Transformers.js, ChromaDB, Ollama, Gemini API, Groq API, Claude API, MCP, LLMLingua, spaCy, faster-whisper, Kokoro TTS |
+| **Classical ML & data** | scikit-learn, LightGBM, pandas, Polars, NumPy, SciPy, PyArrow, RapidFuzz, NetworkX, Matplotlib, Seaborn, Plotly |
+| **GPU computing** | CUDA, CuPy, NVIDIA DALI, RAPIDS cuDF |
 | **Backend** | FastAPI, Flask, Pydantic, SQLAlchemy, APScheduler, Node.js, Streamlit |
-| **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zustand, Recharts, Leaflet, Zod |
-| **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), PyQt6, pywebview |
+| **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zustand, React Router, Leaflet, Zod |
+| **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), pywebview |
 | **Databases** | PostgreSQL, SQLite |
-| **Embedded** | Raspberry Pi 5, STM32, ESP32, Arduino |
-| **DevOps & tools** | Docker, Docker Compose, Caddy, Git, Linux, uv, pytest, Vitest, Ruff, ESLint, Jupyter |
+| **Embedded** | Raspberry Pi 5 (picamera2), STM32, ESP32, Arduino |
+| **Security / CTF** | pwntools, PyCryptodome |
+| **DevOps & tools** | Docker, Git, Linux, pytest, Vitest, ESLint, Jupyter |
