@@ -21,9 +21,7 @@ I like taking a model off the notebook and onto real hardware or into a product 
 | [TruthLens](https://github.com/kart747/TruthLens) | Real-time deepfake image detector on a fine-tuned ResNet18, 98% validation accuracy | PyTorch |
 | [AlgoGenius](https://github.com/kart747/AlgoGenius) | LeetCode-style platform with AI problem generation and a Docker execution sandbox | Next.js, FastAPI, Docker |
 | [privacy-guardian](https://github.com/kart747/privacy-guardian) | Browser extension that explains privacy policies, trackers and dark patterns in plain language | JavaScript, browser extension |
-| [emote-detector](https://github.com/kart747/emote-detector) | Real-time face-emotion and hand-gesture recognition with animated emote overlays | Python, OpenCV, MediaPipe, TensorFlow |
 | [unet-pytorch](https://github.com/kart747/unet-pytorch) | U-Net for semantic segmentation, implemented from scratch from the paper | PyTorch |
-| [artscape](https://github.com/kart747/artscape) | Interactive art collection that follows visual motifs across artworks (ACM x MLH Hack Days 2026) | TypeScript, Gemini |
 
 ## Skills
 
