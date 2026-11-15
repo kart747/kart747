@@ -20,3 +20,20 @@ I like taking a model off the notebook and onto real hardware or into a product 
 | [AlgoGenius](https://github.com/kart747/AlgoGenius) | LeetCode-style platform with AI problem generation and a Docker execution sandbox | Next.js, FastAPI, Docker |
 | [unet-pytorch](https://github.com/kart747/unet-pytorch) | U-Net for semantic segmentation, implemented from scratch from the paper | PyTorch |
 | [artscape](https://github.com/kart747/artscape) | Interactive art collection that follows visual motifs across artworks (ACM x MLH Hack Days 2026) | TypeScript, Gemini |
+
+## Tech stack
+
+**Languages:** Python, C++, TypeScript, JavaScript, Dart
+
+**ML / CV:** PyTorch, OpenCV, MediaPipe, scikit-learn, CUDA
+
+**GenAI:** LLM applications, local/offline models, RAG, prompt and agent design
+
+**Embedded:** Raspberry Pi, STM32, ESP32, Arduino
+
+**Web / tools:** FastAPI, React, Next.js, Docker, Git, Linux
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kart747&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kart747&layout=compact&hide_border=true)
