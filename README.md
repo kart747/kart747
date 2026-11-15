@@ -13,6 +13,7 @@ I like taking a model off the notebook and onto real hardware or into a product 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [autoliv-dms](https://github.com/kart747/autoliv-dms) | Driver monitoring system: vision drowsiness baseline (EAR, MAR, PERCLOS) feeding an STM32 safety ECU | Python, MediaPipe, Raspberry Pi 5, STM32, ESP32 |
+| [AmazonML](https://github.com/kart747/AmazonML) | Business entity resolution across three noisy sources at 10M+ record scale; F0.5 0.978 on the Amazon ML Challenge 2026 leaderboard | Python, LightGBM, Polars, scikit-learn |
 | [gnss-free-dead-reckoning](https://github.com/kart747/gnss-free-dead-reckoning) | AI/ML dead-reckoning navigation for GNSS-denied and spoofed environments (Smart India Hackathon 2026) | PyTorch, sensor fusion |
 | [Greenroom](https://github.com/kart747/Greenroom) | Offline, open-source English speaking coach with a local LLM tutor | Python, local LLMs, speech |
 | [yojanapath](https://github.com/kart747/yojanapath) | Bilingual government-scheme eligibility navigator for rural India (USAII Global AI Hackathon 2026) | React, FastAPI, LLMs |
