@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="" width="100%"></p>
+
 # Karthik G K
 
 **CS student building at the intersection of computer vision, deep learning, GenAI and embedded systems.**
