@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/terminal.svg" alt="kart747 neofetch"></p>
 
 # Karthik G K
 
