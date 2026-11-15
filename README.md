@@ -1,6 +1,6 @@
 # Karthik G K
 
-**CS student building at the intersection of computer vision, deep learning, GenAI and embedded systems.**
+**AI/ML student building at the intersection of computer vision, deep learning, GenAI and embedded systems.**
 
 I like taking a model off the notebook and onto real hardware or into a product people can use: a driver-monitoring pipeline on a Raspberry Pi, an offline LLM tutor on a laptop, a navigation stack that keeps working when GNSS does not.
 
@@ -26,14 +26,14 @@ I like taking a model off the notebook and onto real hardware or into a product 
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,dart,kotlin,java,bash,html,css&perline=11" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,dart,kotlin,bash,html,css&perline=10" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,flutter,react,nextjs,vite,tailwind,fastapi&perline=11" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,sqlite,supabase,prisma,docker,nginx,git,linux,arduino,raspberrypi&perline=12" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,sqlite,docker,git,linux,arduino,raspberrypi&perline=9" alt="Tools" />
 </p>
 
 | Area | What I've used |
 | --- | --- |
-| **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, Java, SQL, Bash, HTML/CSS |
+| **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, SQL, Bash, HTML/CSS |
 | **Deep learning** | PyTorch, torchvision, TensorFlow/Keras, segmentation-models-pytorch, Grad-CAM, bitsandbytes, Accelerate |
 | **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, scikit-image, PaddleOCR, docTR, TrOCR |
 | **GenAI & NLP** | Hugging Face Transformers, sentence-transformers, LangChain, ChromaDB (RAG), Ollama, Gemini, Groq, LLMLingua, spaCy, NLTK, gensim, faster-whisper, Kokoro TTS, Transformers.js |
@@ -42,6 +42,6 @@ I like taking a model off the notebook and onto real hardware or into a product 
 | **Backend** | FastAPI, Flask, Pydantic, SQLAlchemy, APScheduler, Node.js, Streamlit |
 | **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zustand, Recharts, Leaflet, Zod |
 | **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), PyQt6, pywebview |
-| **Databases** | PostgreSQL, SQLite, Supabase, Prisma |
+| **Databases** | PostgreSQL, SQLite |
 | **Embedded** | Raspberry Pi 5, STM32, ESP32, Arduino |
-| **DevOps & tools** | Docker, Docker Compose, Caddy, Git, Linux, uv, pytest, Vitest, Ruff, ESLint, Jupyter, n8n |
+| **DevOps & tools** | Docker, Docker Compose, Caddy, Git, Linux, uv, pytest, Vitest, Ruff, ESLint, Jupyter |
