@@ -25,20 +25,20 @@ I like taking a model off the notebook and onto real hardware or into a product 
 
 ## Skills
 
-Everything below is used in code I wrote and committed.
-
 | Area | What I've used |
 | --- | --- |
-| **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, SQL, Bash, HTML/CSS |
-| **Deep learning** | PyTorch, torchvision, torchaudio, TensorFlow, Grad-CAM |
-| **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, PaddleOCR, docTR, TrOCR, Pillow |
-| **GenAI & NLP** | Hugging Face Transformers, Transformers.js, ChromaDB, Ollama, Gemini API, Groq API, Claude API, MCP, LLMLingua, spaCy, faster-whisper, Kokoro TTS |
-| **Classical ML & data** | scikit-learn, LightGBM, pandas, Polars, NumPy, SciPy, PyArrow, RapidFuzz, NetworkX, Matplotlib, Seaborn, Plotly |
-| **GPU computing** | CUDA, CuPy, NVIDIA DALI, RAPIDS cuDF |
+| **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, Java, SQL, Bash, HTML/CSS |
+| **GenAI** | LLM applications, RAG pipelines, embeddings and vector search, AI agents and tool use (MCP), local and on-device LLMs, prompt engineering, prompt compression, quantised inference, speech-to-text and text-to-speech |
+| **GenAI tooling** | Hugging Face Transformers, Transformers.js, LangChain, ChromaDB, sentence-transformers, Ollama, Gemini API, Groq API, Claude API, LLMLingua, bitsandbytes, Accelerate, faster-whisper, Kokoro TTS, n8n |
+| **Deep learning** | PyTorch, torchvision, torchaudio, TensorFlow, Keras, segmentation-models-pytorch, Grad-CAM |
+| **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, scikit-image, PaddleOCR, docTR, TrOCR, Pillow |
+| **NLP** | spaCy, NLTK, gensim |
+| **Classical ML & data** | scikit-learn, LightGBM, pandas, Polars, NumPy, SciPy, PyArrow, RapidFuzz, NetworkX, FilterPy (EKF/UKF), Matplotlib, Seaborn, Plotly, Recharts |
+| **GPU computing** | CUDA, CuPy, Numba, NVIDIA DALI, RAPIDS cuDF |
 | **Backend** | FastAPI, Flask, Pydantic, SQLAlchemy, APScheduler, Node.js, Streamlit |
 | **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zustand, React Router, Leaflet, Zod |
-| **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), pywebview |
-| **Databases** | PostgreSQL, SQLite |
+| **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), PyQt6, pywebview |
+| **Databases** | PostgreSQL, SQLite, Supabase, Prisma |
 | **Embedded** | Raspberry Pi 5 (picamera2), STM32, ESP32, Arduino |
 | **Security / CTF** | pwntools, PyCryptodome |
-| **DevOps & tools** | Docker, Git, Linux, pytest, Vitest, ESLint, Jupyter |
+| **DevOps & tools** | Docker, Caddy, Git, Linux, uv, Anaconda, pytest, Vitest, ESLint, Jupyter |
