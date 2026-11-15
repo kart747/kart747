@@ -4,6 +4,7 @@
 
 I take models off the notebook and onto real hardware or into products people use, and build the FastAPI and PostgreSQL backends behind them.
 
+- Building a computer-vision startup (in stealth)
 - Practising DSA in C++ every day in [brute-to-better](https://github.com/kart747/brute-to-better)
 - Vibe-coding side projects at 2 a.m. and refactoring them into real code by morning (mostly)
 - Open to internships in GenAI, computer vision and MLOps
