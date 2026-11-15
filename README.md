@@ -21,20 +21,8 @@ I take models off the notebook and onto real hardware or into products people us
 
 ## Skills
 
-| Area | What I've used |
-| --- | --- |
-| **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, Java, SQL, Bash, HTML/CSS |
-| **GenAI** | LLM applications, RAG pipelines, embeddings and vector search, AI agents and tool use (MCP), local and on-device LLMs, prompt engineering, prompt compression, quantised inference, speech-to-text and text-to-speech |
-| **GenAI tooling** | Hugging Face Transformers, Transformers.js, LangChain, ChromaDB, sentence-transformers, Ollama, Gemini API, Groq API, Claude API, LLMLingua, bitsandbytes, Accelerate, faster-whisper, Kokoro TTS, n8n |
-| **Deep learning** | PyTorch, torchvision, torchaudio, TensorFlow, Keras, segmentation-models-pytorch, Grad-CAM |
-| **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, scikit-image, PaddleOCR, docTR, TrOCR, Pillow |
-| **NLP** | spaCy, NLTK, gensim |
-| **Classical ML & data** | scikit-learn, LightGBM, pandas, Polars, NumPy, SciPy, PyArrow, RapidFuzz, NetworkX, FilterPy (EKF/UKF), Matplotlib, Seaborn, Plotly, Recharts |
-| **GPU computing** | CUDA, CuPy, Numba, NVIDIA DALI, RAPIDS cuDF |
-| **Backend** | FastAPI, Flask, Pydantic, SQLAlchemy, APScheduler, Node.js, Streamlit |
-| **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zustand, React Router, Leaflet, Zod |
-| **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), PyQt6, pywebview |
-| **Databases** | PostgreSQL, SQLite, Supabase, Prisma |
-| **Embedded** | Raspberry Pi 5 (picamera2), STM32, ESP32, Arduino |
-| **Security / CTF** | pwntools, PyCryptodome |
-| **DevOps & tools** | Docker, Caddy, Git, Linux, uv, Anaconda, pytest, Vitest, ESLint, Jupyter |
+- **Languages:** Python, C++, TypeScript, Dart, SQL
+- **ML / CV:** PyTorch, OpenCV, MediaPipe, YOLO, scikit-learn, LightGBM
+- **GenAI:** LLM apps, RAG, local and on-device LLMs, Hugging Face, LangChain
+- **Backend / apps:** FastAPI, PostgreSQL, Docker, React / Next.js, Flutter
+- **Embedded:** Raspberry Pi, STM32, ESP32
