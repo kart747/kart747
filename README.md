@@ -22,8 +22,10 @@ I take models off the notebook and onto real hardware or into products people us
 
 ## Skills
 
-- **GenAI:** Hugging Face Transformers, LangChain, RAG (ChromaDB, sentence-transformers), LLM APIs, local LLMs (Ollama), PEFT and quantisation
-- **Computer vision:** PyTorch, OpenCV, YOLO, object tracking, MediaPipe, TensorFlow
+- **GenAI:** LLM apps, RAG, embeddings and vector search, AI agents and tool use (MCP), prompt engineering, fine-tuning (PEFT / LoRA), quantised and on-device LLMs, speech (Whisper, TTS)
+- **GenAI tooling:** Hugging Face Transformers, LangChain, ChromaDB, sentence-transformers, Ollama, OpenAI / Gemini / Groq / Claude APIs
+- **Computer vision:** object detection (YOLO), multi-object tracking (BoT-SORT), segmentation (U-Net, DeepLabV3+), classification and transfer learning, pose and face landmarks, OCR, Grad-CAM explainability
+- **CV tooling:** PyTorch, OpenCV, MediaPipe, segmentation-models-pytorch, PaddleOCR, TensorFlow
 - **MLOps & deployment:** Docker, FastAPI model serving, edge deployment (Raspberry Pi 5, STM32, ESP32), quantised inference
 - **ML & data:** scikit-learn, pandas, NumPy, LightGBM
 - **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic
