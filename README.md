@@ -22,9 +22,10 @@ I take models off the notebook and onto real hardware or into products people us
 
 ## Skills
 
-- **Languages:** Python, C++, TypeScript / JavaScript, SQL
-- **Deep learning & CV:** PyTorch, OpenCV, YOLO, object tracking, MediaPipe, TensorFlow
+- **GenAI:** Hugging Face Transformers, LangChain, RAG (ChromaDB, sentence-transformers), LLM APIs, local LLMs (Ollama), PEFT and quantisation
+- **Computer vision:** PyTorch, OpenCV, YOLO, object tracking, MediaPipe, TensorFlow
+- **MLOps & deployment:** Docker, FastAPI model serving, edge deployment (Raspberry Pi 5, STM32, ESP32), quantised inference
 - **ML & data:** scikit-learn, pandas, NumPy, LightGBM
-- **GenAI:** Hugging Face Transformers, LLM APIs, local LLMs (Ollama), RAG
-- **Backend & web:** FastAPI, PostgreSQL, SQLAlchemy, Docker, React, Next.js
-- **Embedded:** Raspberry Pi, STM32, ESP32
+- **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic
+- **Apps:** Flutter (Dart), React, Next.js
+- **Languages:** Python, C++, Dart, TypeScript / JavaScript, SQL
