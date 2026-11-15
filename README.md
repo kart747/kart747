@@ -27,12 +27,6 @@ I like taking a model off the notebook and onto real hardware or into a product 
 
 Everything below is used in code I wrote and committed.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,dart,kotlin,bash,html,css&perline=10" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flutter,react,nextjs,vite,tailwind,fastapi&perline=10" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,sqlite,docker,git,linux,arduino,raspberrypi&perline=9" alt="Tools" />
-</p>
-
 | Area | What I've used |
 | --- | --- |
 | **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, SQL, Bash, HTML/CSS |
