@@ -23,7 +23,7 @@ I take models off the notebook and onto real hardware or into products people us
 ## Skills
 
 - **Languages:** Python, C++, TypeScript / JavaScript, SQL
-- **Deep learning & CV:** PyTorch, OpenCV, MediaPipe, TensorFlow
+- **Deep learning & CV:** PyTorch, OpenCV, YOLO, object tracking, MediaPipe, TensorFlow
 - **ML & data:** scikit-learn, pandas, NumPy, LightGBM
 - **GenAI:** Hugging Face Transformers, LLM APIs, local LLMs (Ollama), RAG
 - **Backend & web:** FastAPI, PostgreSQL, SQLAlchemy, Docker, React, Next.js
