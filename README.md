@@ -1,13 +1,13 @@
 # Karthik G K
 
-**AI/ML student building at the intersection of computer vision, deep learning, GenAI, backend engineering and embedded systems.**
+**AI/ML student focused on GenAI, computer vision and MLOps, with backend and Flutter engineering to ship them.**
 
 I take models off the notebook and onto real hardware or into products people use, and build the FastAPI and PostgreSQL backends behind them.
 
 - Building a startup in AI-assisted semen analysis: YOLO sperm detection, multi-object tracking and CASA motility metrics (VCL, VSL, LIN) from microscope video
 - Practising DSA in C++ every day in [brute-to-better](https://github.com/kart747/brute-to-better)
 - Vibe-coding side projects at 2 a.m. and refactoring them into real code by morning (mostly)
-- Open to internships and collaboration on ML, CV, GenAI and backend projects
+- Open to internships in GenAI, computer vision and MLOps
 
 ## Featured projects
 
