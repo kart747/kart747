@@ -32,8 +32,3 @@ I like taking a model off the notebook and onto real hardware or into a product 
 **Embedded:** Raspberry Pi, STM32, ESP32, Arduino
 
 **Web / tools:** FastAPI, React, Next.js, Docker, Git, Linux
-
-## GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kart747&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kart747&layout=compact&hide_border=true)
