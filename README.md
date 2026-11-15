@@ -23,14 +23,25 @@ I like taking a model off the notebook and onto real hardware or into a product 
 | [unet-pytorch](https://github.com/kart747/unet-pytorch) | U-Net for semantic segmentation, implemented from scratch from the paper | PyTorch |
 | [artscape](https://github.com/kart747/artscape) | Interactive art collection that follows visual motifs across artworks (ACM x MLH Hack Days 2026) | TypeScript, Gemini |
 
-## Tech stack
+## Skills
 
-**Languages:** Python, C++, TypeScript, JavaScript, Dart
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,dart,kotlin,java,bash,html,css&perline=11" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,flutter,react,nextjs,vite,tailwind,fastapi&perline=11" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,sqlite,supabase,prisma,docker,nginx,git,linux,arduino,raspberrypi&perline=12" alt="Tools" />
+</p>
 
-**ML / CV:** PyTorch, OpenCV, MediaPipe, scikit-learn, CUDA
-
-**GenAI:** LLM applications, local/offline models, RAG, prompt and agent design
-
-**Embedded:** Raspberry Pi, STM32, ESP32, Arduino
-
-**Web / tools:** FastAPI, React, Next.js, Docker, Git, Linux
+| Area | What I've used |
+| --- | --- |
+| **Languages** | Python, C++, C, TypeScript, JavaScript, Dart, Kotlin, Java, SQL, Bash, HTML/CSS |
+| **Deep learning** | PyTorch, torchvision, TensorFlow/Keras, segmentation-models-pytorch, Grad-CAM, bitsandbytes, Accelerate |
+| **Computer vision & OCR** | OpenCV, MediaPipe, Ultralytics YOLO, scikit-image, PaddleOCR, docTR, TrOCR |
+| **GenAI & NLP** | Hugging Face Transformers, sentence-transformers, LangChain, ChromaDB (RAG), Ollama, Gemini, Groq, LLMLingua, spaCy, NLTK, gensim, faster-whisper, Kokoro TTS, Transformers.js |
+| **Classical ML & data** | scikit-learn, LightGBM, pandas, Polars, NumPy, SciPy, PyArrow, RapidFuzz, FilterPy (EKF/UKF), Matplotlib, Seaborn, Plotly |
+| **GPU computing** | CUDA, CuPy, Numba, NVIDIA DALI, RAPIDS cuDF |
+| **Backend** | FastAPI, Flask, Pydantic, SQLAlchemy, APScheduler, Node.js, Streamlit |
+| **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, TanStack Query, Zustand, Recharts, Leaflet, Zod |
+| **Mobile & desktop** | Flutter (Riverpod, Drift, go_router), Android (Kotlin), PyQt6, pywebview |
+| **Databases** | PostgreSQL, SQLite, Supabase, Prisma |
+| **Embedded** | Raspberry Pi 5, STM32, ESP32, Arduino |
+| **DevOps & tools** | Docker, Docker Compose, Caddy, Git, Linux, uv, pytest, Vitest, Ruff, ESLint, Jupyter, n8n |
