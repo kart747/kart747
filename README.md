@@ -2,7 +2,7 @@
 
 **AI/ML student building at the intersection of computer vision, deep learning, GenAI, backend engineering and embedded systems.**
 
-I like taking a model off the notebook and onto real hardware or into a product people can use: a driver-monitoring pipeline on a Raspberry Pi, an offline LLM tutor on a laptop, a navigation stack that keeps working when GNSS does not. I also build the backends behind them: FastAPI services, PostgreSQL data pipelines, schedulers and Dockerised deployments.
+I take models off the notebook and onto real hardware or into products people use, and build the FastAPI and PostgreSQL backends behind them.
 
 - Practising DSA in C++ every day in [brute-to-better](https://github.com/kart747/brute-to-better)
 - Vibe-coding side projects at 2 a.m. and refactoring them into real code by morning (mostly)
