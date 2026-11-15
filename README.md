@@ -6,7 +6,7 @@ I like taking a model off the notebook and onto real hardware or into a product 
 
 - Currently working on a multi-node driver monitoring system (Pi 5 + STM32 + ESP32)
 - Practising DSA in C++ every day in [brute-to-better](https://github.com/kart747/brute-to-better)
-- Vibe-codes side projects at 2 a.m. and refactors them into real code by morning (mostly)
+- Vibe-coding side projects at 2 a.m. and refactoring them into real code by morning (mostly)
 - Open to internships and collaboration on ML, CV, GenAI and backend projects
 
 ## Featured projects
