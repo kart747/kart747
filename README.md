@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/terminal.svg" alt="kart747 neofetch"></p>
-
 # Karthik G K
 
 **CS student building at the intersection of computer vision, deep learning, GenAI and embedded systems.**
